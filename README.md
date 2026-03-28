@@ -9,7 +9,7 @@
 <h2>Learning Frontend Development</h2>
 
 <!-- Технології -->
-<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:25px; margin-top:20px;">
+<div style="display:flex; justify-content:center; flex-wrap:wrap; gap:30px; margin-top:20px;">
 
   <!-- HTML -->
   <div style="text-align:center;">
@@ -28,14 +28,6 @@
     <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="70" style="filter: drop-shadow(0 0 6px gold);"/>
     <div>JavaScript</div>
   </div>
-
-  <!-- Приклад додаткової технології -->
-  <!--
-  <div style="text-align:center;">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/python.svg" width="70" style="filter: drop-shadow(0 0 6px lightblue);"/>
-    <div>Python</div>
-  </div>
-  -->
 
 </div>
 
