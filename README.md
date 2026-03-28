@@ -6,9 +6,9 @@
 <img src="banner-github.png" width="100%" alt="My banner"/>
 
 <p align="center">
-<img src="https://img.shields.io/badge/HTML-FFE7DC?style=for-the-badge&logo=html5&logoColor=black"/>
-<img src="https://img.shields.io/badge/CSS-FFE7DC?style=for-the-badge&logo=css3&logoColor=black"/>
-<img src="https://img.shields.io/badge/JavaScript-FFE7DC?style=for-the-badge&logo=javascript&logoColor=black"/>
+<img src="https://img.shields.io/badge/HTML-FFE3DA?style=for-the-badge&logo=html5&logoColor=black"/>
+<img src="https://img.shields.io/badge/CSS-FFE3DA?style=for-the-badge&logo=css3&logoColor=black"/>
+<img src="https://img.shields.io/badge/JavaScript-FFE3DA?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 </div>
