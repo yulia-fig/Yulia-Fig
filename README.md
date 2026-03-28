@@ -3,10 +3,10 @@
 <div align="center">
 
 <!-- Банер -->
-<img src="banner-github.png" width="800" alt="Мій банер"/>
+<img src="banner-github.png" width="100%" alt="My banner"/>
 
 <!-- Текст під банером -->
-<h2>Вивчаю Frontend та Python</h2>
+<h2>Learning Frontend Development</h2>
 
 <!-- Технології -->
 <div style="display:flex; justify-content:center; flex-wrap:wrap; gap:25px; margin-top:20px;">
