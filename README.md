@@ -9,8 +9,7 @@
 <img src="https://img.shields.io/badge/HTML-FFEDE6?style=for-the-badge&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-FFEDE6?style=for-the-badge&logo=css3&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-FFEDE6?style=for-the-badge&logo=javascript&logoColor=black"/>
-![Static Badge](https://img.shields.io/badge/CSS3-FFEDE6)
 
 </p>
-
+![Static Badge](https://img.shields.io/badge/CSS3-FFEDE6)
 </div>
