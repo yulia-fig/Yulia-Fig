@@ -12,7 +12,6 @@
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/html5.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/css3.svg" width="60"/>
   <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" width="60"/>
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/amazonaws.svg" width="60"/>
 </p>
 
 </div>
