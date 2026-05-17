@@ -11,6 +11,7 @@
 <img src="https://img.shields.io/badge/JavaScript-FFEDE6?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img src="https://img.shields.io/badge/TypeScript-FFEDE6?style=for-the-badge&logo=typescript&logoColor=black
 "/>
+![Static Badge](https://img.shields.io/badge/TypeScript-FFEDE6?style=for-the-badge&logo=TypeScript&logoColor=black&labelColor=FFEDE6)
 
 
 </p>
