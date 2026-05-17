@@ -9,7 +9,7 @@
 <img src="https://img.shields.io/badge/HTML-FFEDE6?style=for-the-badge&logo=html5&logoColor=black"/>
 <img src="https://img.shields.io/badge/CSS-FFEDE6?style=for-the-badge&logo=css3&logoColor=black"/>
 <img src="https://img.shields.io/badge/JavaScript-FFEDE6?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/TypeScript-FFEDE6?logo=TypeScript&logoColor=black&labelColor=FFEDE6
+<img src="https://img.shields.io/badge/TypeScript-FFEDE6?style=for-the-badge&logo=typescript&logoColor=black
 "/>
 
 
